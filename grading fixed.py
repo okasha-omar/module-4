@@ -1,5 +1,5 @@
 """
-Name: Mitansh
+Name: Okasha Omar Mohammed
 Date: 05/03/2024
 Description: This program calculates the average of three exam grades,
              determines the corresponding letter grade, and indicates whether
