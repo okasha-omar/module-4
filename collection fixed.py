@@ -1,5 +1,5 @@
 """
-Name: Mitansh
+Name: Okasha Omar Mohammed
 Date: 05/03/2024
 Description: This program creates a dictionary of authors and their death years,
              then prints each entry in a formatted string showing when each author died.
