@@ -1,5 +1,5 @@
 """
-Name: Mitansh
+Name: Okasha Omar Mohammed
 Date: 05/03/2024
 Description: This program calculates when an alarm will go off based on the current time
              and the number of hours to wait (similar to time.py but with different
