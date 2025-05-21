@@ -1,5 +1,5 @@
 """
-Name: Mitansh
+Name: Okasha Omar Mohammed
 Date: 05/03/2024
 Description: This program calculates what time it will be after a specified number
              of hours have passed from the current time (given in 24-hour format).
