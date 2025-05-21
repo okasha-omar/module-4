@@ -1,5 +1,5 @@
 """
-Name: Mitansh
+Name: okasha omar mohammed
 Date: 05/03/2024
 Description: This program greets a time traveler based on their year of origin.
              It categorizes the year into past (before 1900), present (1900-2020),
